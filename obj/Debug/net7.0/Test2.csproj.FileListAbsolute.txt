@@ -1,0 +1,14 @@
+C:\Users\vojti\source\repos\Test2\bin\Debug\net7.0\Test2.exe
+C:\Users\vojti\source\repos\Test2\bin\Debug\net7.0\Test2.deps.json
+C:\Users\vojti\source\repos\Test2\bin\Debug\net7.0\Test2.runtimeconfig.json
+C:\Users\vojti\source\repos\Test2\bin\Debug\net7.0\Test2.dll
+C:\Users\vojti\source\repos\Test2\bin\Debug\net7.0\Test2.pdb
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\Test2.AssemblyInfoInputs.cache
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\Test2.AssemblyInfo.cs
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\Test2.dll
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\refint\Test2.dll
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\Test2.pdb
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\Test2.genruntimeconfig.cache
+C:\Users\vojti\source\repos\Test2\obj\Debug\net7.0\ref\Test2.dll
